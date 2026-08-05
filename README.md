@@ -3,7 +3,7 @@
   <img src="https://images5.alphacoders.com/121/thumb-1920-1219252.jpg">
 
 <p align="center" width="100%">
-    <img src="https://komarev.com/ghpvc/?username=iu-guang&style=for-the-badge&label=LOOPS&color=687CD2"> 
+    <img src="https://komarev.com/ghpvc/?username=aivaniel&style=for-the-badge&label=LOOPS&color=687CD2"> 
 </p>
 
 *Take back all my regrets*
