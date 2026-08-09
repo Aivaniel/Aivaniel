@@ -1,24 +1,6 @@
-## Vro-
+## Morningstar, the illumination of Wisdom.
 <p align="center">
-  <img src="https://images5.alphacoders.com/121/thumb-1920-1219252.jpg">
+  <img src="https://i.ytimg.com/vi/JB582T3OyxI/maxresdefault.jpg" />
 
 <p align="center" width="100%">
-    <img src="https://komarev.com/ghpvc/?username=aivaniel&style=for-the-badge&label=LOOPS&color=687CD2"> 
-</p>
-
-*Take back all my regrets*
-</p>
-
-*And camouflage it like your silhouette*
-</p>
-
-**Time is like music**
-</p>
-
-*Play it 'til the end and* ***then reset***
-</p>
-
-**Knowing it all, am I destined to fall?**
-</p>
-
-`Like once you did for me`
+    <img src="https://komarev.com/ghpvc/?username=ECLIPTICIS&style=for-the-badge&label=LMD&color=687CD2"> 
