@@ -3,7 +3,7 @@
   <img src="https://i.ytimg.com/vi/JB582T3OyxI/maxresdefault.jpg" />
 
 <p align="center" width="100%">
-    <img src="https://komarev.com/ghpvc/?username=Aivaniel&style=for-the-badge&label=LMD&color=687CD2"> 
+    <img src="https://komarev.com/ghpvc/?username=Mikalji&style=for-the-badge&label=LMD&color=687CD2"> 
 
 ## BYI
 * Try not to cover
